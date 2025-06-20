@@ -1,0 +1,12 @@
+#mainContainer{
+    text-align: center;
+}
+
+#gameContainer{
+    border: 3px solid;
+}
+
+#gameScore{
+    font-family: cursive;
+    font-size: 50px;
+}
